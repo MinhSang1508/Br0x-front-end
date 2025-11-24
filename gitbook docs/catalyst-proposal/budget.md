@@ -1,0 +1,10 @@
+# Budget
+
+
+
+**Total budget 93,400 ADA**
+
+<table><thead><tr><th>Milestone</th><th width="256">Scope Summary</th><th width="102">Estimated Hours</th><th>Roles &#x26; Cost</th><th>Total ADA</th></tr></thead><tbody><tr><td><strong>M1 – Research &#x26; UI/UX Design</strong> </td><td>Finalize requirements, system architecture, UI concept, technical stack, and development plan. Deep dive into Cardano lock script, EVM lock contract, Wanchain XFlows PoC, backend architecture design.</td><td>~220 hrs</td><td>PM: 2,500 ADASolution Architect: 3,500 ADAUI/UX Designer: 3,000 ADABlockchain Dev (PoC): 6,500 ADA</td><td><strong>15,500 ADA</strong></td></tr><tr><td><strong>M2 – Interactive Prototype Development</strong></td><td>Build interactive front-end prototype with sample data, navigation flows, swap UI mockups (scope giảm bớt animation phức tạp &#x26; mobile optimization giai đoạn này).</td><td>~320 hrs</td><td>Frontend Dev: 12,000 ADAUI/UX Designer: 3,500 ADAQA Tester: 1,500 ADAPM: 2,000 ADATooling &#x26; Hosting: 1,000 ADA</td><td><strong>20,000 ADA</strong></td></tr><tr><td><strong>M3 – Core Swap Logic &#x26; Testnet Integration</strong></td><td>Implement functional interface components, wallet connect, swap form, history view, testnet mock API integration.</td><td>~350 hrs</td><td>Frontend Dev: 12,000 ADABackend/Integration Dev: 3,000 ADAUI/UX Support: 1,200 ADAQA: 2,000 ADAPM: 2,000 ADA</td><td><strong>20,200 ADA</strong></td></tr><tr><td><strong>M4 – Cross-Chain Bridge &#x26; Liquidity Routing</strong> </td><td>Integrate swap smart contract on testnet, connect to lock scripts, handle tx signing, and run functional testing.</td><td>~360 hrs</td><td>Blockchain Dev: 9,000 ADAFrontend Dev: 5,000 ADABackend Support: 2,500 ADAQA: 2,000 ADAPM: 2,000 ADA</td><td><strong>20,500 ADA</strong></td></tr><tr><td><strong>M5 – Final Release &#x26; Documentation</strong></td><td>UI refinements, bug fixes, deployment pipeline, technical documentation, onboarding guide.</td><td>~200 hrs</td><td>Frontend Dev: 3,500 ADAUI/UX: 1,200 ADAContent Writer: 1,500 ADAQA: 1,000 ADAPM: 1,500 ADA</td><td><strong>7,200 ADA</strong></td></tr></tbody></table>
+
+
+
