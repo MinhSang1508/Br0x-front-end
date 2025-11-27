@@ -1,7 +1,7 @@
 
 ## 🎯 About
 
-Br0x Protocol - a bridgeless swap solution that enables direct token exchanges between Cardano and EVM-compatible blockchains without traditional bridge infrastructure.
+Br0x Protocol - a bridgeless swap solution that enables direct token exchanges between Cardano and EVM-compatible blockchains without traditional bridge infrastructure
 
 **Key Features:**
 - 🔄 Direct Cardano ↔ EVM chain swaps
