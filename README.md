@@ -1,5 +1,5 @@
 
-## 🎯 About
+## 🎯 Intro
 
 Br0x Protocol - a bridgeless swap solution that enables direct token exchanges between Cardano and EVM-compatible blockchains without traditional bridge infrastructure
 
@@ -72,27 +72,6 @@ Br0x-front-end/
 ├── public/               # Static assets
 └── package.json
 ```
-
----
-
-## 🔗 Supported Networks
-
-### Cardano
-- Mainnet
-- Preprod Testnet
-
-### EVM Chains
-- Ethereum
-- Binance Smart Chain
-- Polygon
-- Avalanche
-- And more...
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
