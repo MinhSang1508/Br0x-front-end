@@ -1,15 +1,15 @@
 ﻿import React from 'react';
 
 // Import the provided crypto logos
-import ethLogo from '../assets/6a172e76eea24ecd870d6f0b4d6b692c0d80acce.png';
-import adaLogo from '../assets/dbd113afd3da7ae206139502102baf0856db17e7.png';
-import bnbLogo from '../assets/c1a44d347e9cddd2da3c6f8f0c1a906523900caf.png';
-import polygonLogo from '../assets/11f00a29f4e39fa1f20990c65951cba7755a62f9.png';
-import solanaLogo from '../assets/8a23f41a85c7bff93aa82f203c8d8496753e5b30.png';
-import arbitrumLogo from '../assets/56f7215ff5ff40ec406f45c63d30a34d0e4695eb.png';
-import avalancheLogo from '../assets/9d1a324b2361c5fc0ea4fb5229b41d631ab1ed1a.png';
-import polkadotLogo from '../assets/82076803a6052f48890cd950757a0088aa20ebc3.png';
-import fantomLogo from '../assets/224b52da921ae675cc8e39f8b48f2819fcedf1a3.png';
+import ethLogo from '../../assets/eth-logo.png';
+import adaLogo from '../../assets/ada-logo.png';
+import bnbLogo from '../../assets/bnb-logo.png';
+import polygonLogo from '../../assets/polygon-logo.png';
+import solanaLogo from '../../assets/solana-logo.png';
+import arbitrumLogo from '../../assets/arbitrum-logo.png';
+import avalancheLogo from '../../assets/avalanche-logo.png';
+import polkadotLogo from '../../assets/polkadot-logo.png';
+import fantomLogo from '../../assets/fantom-logo.png';
 
 export interface BlockchainNetwork {
   id: string;

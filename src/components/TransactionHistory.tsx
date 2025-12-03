@@ -9,11 +9,11 @@ import { Wallet, Filter, ExternalLink, ArrowRight, Calendar, Search, Trash2, Ref
 import { Input } from './ui/input';
 import { getNetworkById, NetworkIcon } from './BlockchainData';
 import { ImageWithFallback } from './figma/ImageWithFallback';
-import subwalletLogo from '../assets/cdf88002033f44055486f7dfa30e8e32dd79666b.png';
-import laceLogo from '../assets/87e267b72fceea58e435c8d1b46f365b52a7e8c8.png';
-import eternlLogo from '../assets/9bf46c8ae675c8d7f4c58af2e33a8c3dfd58a514.png';
-import metamaskLogo from '../assets/5c18b223369775af8201db53a4dbe7680d52f4fd.png';
-import okxLogo from '../assets/0836fcef9cfad78811d99a8c6666fe4455476a75.png';
+import subwalletLogo from '../assets/subwallet-logo.png';
+import laceLogo from '../assets/lace-logo.png';
+import eternlLogo from '../assets/eternl-logo.png';
+import metamaskLogo from '../assets/metamask-logo.png';
+import okxLogo from '../assets/okx-logo.png';
 
 export function TransactionHistory() {
   const { isConnected, connectWallet } = useWallet();
